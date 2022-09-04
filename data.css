@@ -1,0 +1,28 @@
+/* Animated picture */
+
+.contents-2MsGLg:hover [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
+    content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436178829432/tamako-star.gif');
+}
+.wrapper-1VLyxH [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
+    content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436178829432/tamako-star.gif');
+}
+.container-YkUktl:hover [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
+    content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436178829432/tamako-star.gif');
+}
+
+/* Static picture */
+.contents-2MsGLg [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
+    content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436455645224/unknown.png');
+}
+.layout-1qmrhw [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
+    content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436455645224/unknown.png');
+}
+.container-YkUktl [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
+    content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436455645224/unknown.png');
+}
+.avatar-1HDIsL [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
+    content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436455645224/unknown.png');
+}
+.participant-1l6khj [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
+ content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436455645224/unknown.png');
+}
