@@ -1,28 +1,18 @@
-/* Animated picture */
+/* titedog#2913 */
 
-.contents-2MsGLg:hover [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
-    content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436178829432/tamako-star.gif');
-}
-.wrapper-1VLyxH [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
-    content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436178829432/tamako-star.gif');
-}
-.container-YkUktl:hover [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
-    content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436178829432/tamako-star.gif');
+[aria-label="titedog"] .banner-1YaD3N,
+[style="background-color: rgb(36, 32, 33);"].profileBanner-1owKI5,
+.settingsBanner-1eDJ5w {
+    content: url("https://tenor.com/view/anime-vibing-gif-18446551");
+    height: auto;
 }
 
-/* Static picture */
-.contents-2MsGLg [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
-    content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436455645224/unknown.png');
+.userInfo-regn9W [data-user-id="217056587284611073"] {
+    top: 240px !important;
 }
-.layout-1qmrhw [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
-    content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436455645224/unknown.png');
-}
-.container-YkUktl [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
-    content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436455645224/unknown.png');
-}
-.avatar-1HDIsL [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
-    content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436455645224/unknown.png');
-}
-.participant-1l6khj [src^="https://cdn.discordapp.com/avatars/217056587284611073/"] {
- content: url('https://media.discordapp.net/attachments/1016041061455515698/1016041436455645224/unknown.png');
+
+[aria-label="titedog"]
+.banner-2boKnS {
+    content: url("https://tenor.com/view/anime-vibing-gif-18446551");
+    height: auto;
 }
